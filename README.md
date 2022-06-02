@@ -15,4 +15,6 @@
     <li><b>LinkedIn:</b> https://www.linkedin.com/in/alaa-bashar-9526451a4/</li>
   </ul>
 
+  <br/>
+  <h4 align="center"><b>Thanks 🤍</b></h4>
 </html>
