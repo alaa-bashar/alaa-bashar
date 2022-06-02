@@ -15,5 +15,5 @@
   </ul>
 
   <br/>
-  <h4 align="center"><b>Thanks 🤍</b></h4>
+  <h4 align="center"><b>Enjoy checking my GitHub, Thanks 🤍</b></h4>
 </html>
