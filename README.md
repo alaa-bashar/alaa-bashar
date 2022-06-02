@@ -10,7 +10,6 @@
   
   <h3>About:</h3>
   <ul>
-    <li><b>Location:</b> Nasr City, Cairo, Egypt.</li>
     <li><b>Email:</b> alaa.ali.bashar@gmail.com</li>
     <li><b>LinkedIn:</b> https://www.linkedin.com/in/alaa-bashar-9526451a4/</li>
   </ul>
