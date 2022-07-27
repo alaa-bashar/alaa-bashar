@@ -4,6 +4,7 @@
   <h3 align="center">Computer Engineering Student, Software Engineering Passionate,</h3>
   <h3 align="center">Front-End Developer</h3>
   
+  <br/>
   
   <h3>Education:</h3>
   <ul>
