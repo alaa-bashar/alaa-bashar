@@ -2,7 +2,7 @@
 
   <h1 align="center">Hello World, I'am Alaa Bashar</h1>
   <h3 align="center">Computer Engineering Student, Software Engineering Passionate,</h3>
-  <h3 align="center">&lt;Front-End Developer/&gt;</h3>
+  <h3 align="center">&lt;Front-End Engineer/&gt;</h3>
   
   <br/>
   
